@@ -1,0 +1,101 @@
+App_ID,App_Name,Category,Ratings,Installs,Price,Last_updated
+1,WhatsApp,Communication,4.5,100000000,0,12-07-2025
+2,Cure.fit,Health & Fitness,2.9,10000000,599,10-06-2025
+3,Unacademy,Education & Learning,3.2,50000000,1000,04-04-2024
+4,Practo,Health & Fitness,3.8,7000000,299,12-03-2023
+5,Google Maps,Travel & Navigation,4.4,100000000,0,12-07-2025
+6,Byju's,Education & Learning,3.9,67000000,899,02-02-2022
+7,Goibibo,Travel & Navigation,1.8,50000000,599,12-07-2025
+8,Uber,Travel & Navigation,4.5,10000000,0,12-07-2025
+9,Free Fire,Gaming,4.8,10000000,999,12-07-2025
+10,HealthifyMe,Health & Fitness,3.6,9000000,450,12-07-2025
+11,Google Classroom,Education & Learning,4.7,99000000,600,12-07-2025
+12,Messenger,Communication,4.8,50000000,0,12-07-2025
+13,Ola,Travel & Navigation,4.5,10000000,0,21-04-2022
+14,Ludo King,Gaming,1.1,10000000,450,10-06-2025
+15,Gmail,Utility,4.8,100000000,0,12-07-2024
+16,Telegram,Communication,4,10000000,0,12-07-2025
+17,Coursera,Education & Learning,4.7,9000000,0,09-09-2022
+18,Make my Trip,Travel & Navigation,3.5,10000000,589,11-05-2021
+19,Google Pay,Payment & Finance,4.1,10000000,0,12-07-2025
+20,Urban Company,Utility,3.1,8000000,300,12-07-2024
+21,PhonePe,Payment & Finance,3.9,5000000,0,22-05-2022
+22,Instagram,Social Media,4.8,5000000,0,01-07-2021
+23,Aadhaar,Utility,3.6,100000,0,12-07-2025
+24,Google Meet,Communication,4.2,10000000,0,03-07-2024
+25,Google Photos,Utility,4,10000000,0,12-07-2025
+26,Paytm,Payment & Finance,3.9,45000000,0,10-01-2021
+27,Facebook,Social Media,4.3,110000000,0,12-07-2025
+28,Threads,Social Media,4,99000000,0,12-07-2025
+29,SHEIN,E-commerce,1.5,10000000,0,04-02-2025
+30,Walmart,E-commerce,2.7,10000,0,22-05-2022
+31,Flipkart,E-commerce,4.7,4990000,0,12-07-2023
+32,WhatsApp,Communication,4.5,100000000,0,12-07-2025
+33,Cure.fit,Health & Fitness,2.9,10000000,700,10-06-2025
+34,Unacademy,Education & Learning,3.2,50000000,299,04-04-2024
+35,Practo,Health & Fitness,3.8,7000000,0,12-03-2023
+36,Google Maps,Travel & Navigation,4.4,10000000,670,12-07-2025
+37,Byju's,Education & Learning,3.9,67000000,599,02-02-2022
+38,Goibibo,Travel & Navigation,2.9,50000000,0,12-07-2025
+39,Uber,Travel & Navigation,4.5,10000000,199,12-07-2025
+40,Free Fire,Gaming,4.8,10000000,950,12-07-2025
+41,HealthifyMe,Health & Fitness,3.6,9000000,650,12-07-2023
+42,Google Classroom,Education & Learning,4.7,99000000,0,12-07-2025
+43,Messenger,Communication,4.8,5000000,0,12-07-2025
+44,Ola,Travel & Navigation,4.5,10000000,450,21-04-2022
+45,Ludo King,Gaming,3.6,10000000,0,10-06-2025
+46,Gmail,Utility,4.8,10000000,0,12-07-2024
+47,Telegram,Communication,4,10000000,0,12-07-2025
+48,Coursera,Education & Learning,4.7,9000000,1000,09-09-2022
+49,Make my Trip,Travel & Navigation,3.5,10000000,0,11-05-2021
+50,Google Pay,Payment & Finance,4.1,10000000,130,12-07-2025
+51,Urban Company,Utility,3.1,8000000,0,12-07-2024
+52,PhonePe,Payment & Finance,3.9,50000000,0,22-05-2022
+53,Instagram,Social Media,4.8,50000000,0,01-07-2021
+54,Aadhaar,Utility,3.6,100000,0,12-07-2025
+55,Google Chat,Communication,4.2,10000000,0,03-07-2024
+56,Google Photos,Utility,4,1000000,0,12-07-2025
+57,Paytm,Payment & Finance,3.9,4500000,0,10-01-2021
+58,Facebook,Social Media,4.3,11000000,0,12-07-2025
+59,Threads,Social Media,4,9900000,0,12-07-2025
+60,SHEIN,E-commerce,3,10000000,0,04-02-2025
+61,Walmart,E-commerce,2.7,10000,0,22-05-2022
+62,Flipkart,E-commerce,4.7,4990000,0,12-07-2023
+63,WhatsApp,Communication,4.5,10000000,0,12-07-2025
+64,Cure.fit,Health & Fitness,1.5,10000000,235,10-06-2025
+65,Unacademy,Education & Learning,3.2,50000000,899,04-04-2024
+66,Practo,Health & Fitness,3.8,7000000,299,12-03-2023
+67,Google Maps,Travel & Navigation,4.4,10000000,0,12-07-2025
+68,Byju's,Education & Learning,3.9,67000000,389,02-02-2022
+69,Goibibo,Travel & Navigation,2.9,50000000,599,12-07-2025
+70,Uber,Travel & Navigation,4.5,10000000,0,12-07-2025
+71,Free Fire,Gaming,4.8,10000000,999,12-07-2025
+72,HealthifyMe,Health & Fitness,3.6,9000000,450,02-08-2024
+73,Google Classroom,Education & Learning,4.7,99000000,430,12-07-2025
+74,Messenger,Communication,4.8,50000000,0,12-07-2025
+75,Ola,Travel & Navigation,4.5,10000000,0,21-04-2022
+76,Ludo King,Gaming,3.6,10000000,450,10-06-2025
+77,Gmail,Utility,4.8,10000000,0,12-07-2024
+78,Telegram,Communication,4,10000000,0,12-07-2025
+79,Coursera,Education & Learning,4.7,9000000,0,09-09-2022
+80,Make my Trip,Travel & Navigation,3.5,10000000,450,11-05-2021
+81,Google Pay,Payment & Finance,4.1,10000000,0,12-07-2025
+82,Urban Company,Utility,3.1,8000000,389,12-07-2024
+83,PhonePe,Payment & Finance,3.9,5000000,0,22-05-2022
+84,Instagram,Social Media,4.8,5000000,0,01-07-2021
+85,Aadhaar,Utility,3.6,100000,0,12-07-2025
+86,Google Chat,Communication,4.2,10000000,0,03-07-2024
+87,Google Photos,Utility,4,10000000,0,12-07-2025
+88,Paytm,Payment & Finance,3.9,45000000,0,10-01-2021
+89,Facebook,Social Media,4.3,11000000,0,12-07-2025
+90,Threads,Social Media,4,99000000,0,12-07-2025
+91,SHEIN,E-commerce,3,10000000,0,04-02-2025
+92,Walmart,E-commerce,2.7,10000,0,22-05-2022
+93,Flipkart,E-commerce,4.7,4990000,0,12-07-2025
+94,Threads,Social Media,4,99000000,0,12-07-2025
+95,SHEIN,E-commerce,3,10000000,0,12-07-2025
+96,Walmart,E-commerce,2.7,10000,0,17-07-2021
+97,Flipkart,E-commerce,4.7,4990000,0,12-01-2023
+98,WhatsApp,Communication,4.5,100000000,0,12-07-2025
+99,Cure.fit,Health & Fitness,1.2,10000000,299,12-07-2025
+100,Unacademy,Education & Learning,3.2,50000000,550,12-06-2024
