@@ -57,5 +57,11 @@ The following queries were designed to address business-style questions such as 
      - Extend project with window functions and subqueries.
      - Create an Excel or Power BI dashboard from exported CSV results.
      - Document business recommendations based on insights (e.g., which categories are underserved vs. saturated).
-     - These extensions would make the project more applicable to real-world business analytics scenarios.
+
+
+👩‍💻 Author
+**Anitha Nagabhushan**  
+Aspiring Data Analyst
+Email : anithanagabhushan20@gmail.com
+
 
