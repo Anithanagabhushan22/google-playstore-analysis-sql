@@ -7,13 +7,12 @@ The dataset was created and cleaned in Excel, then imported into MySQL for query
 The goal is to practice SQL and demonstrate analytical thinking by solving business-style questions such as app performance, category insights, and pricing analysis.
 
 
-🛠️ **Tech Stack**
+🛠️ ## Tech Stack
 
-   -  **Dataset**       : Manually created & cleaned in Excel (100 rows and 7 columns)
-   -  **Database**      : MySQL
-   -  **Tools**         : MySQL Workbench, Excel
-   -  **Documentation** : GitHub README
-
+- **Dataset**       : Manually created & cleaned in Excel (100 rows, 7 columns)
+- **Database**      : MySQL
+- **Tools**         : MySQL Workbench, Excel
+- **Documentation** : GitHub README
 
 📂 **Repository Structure**
 
